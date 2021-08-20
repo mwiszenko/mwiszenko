@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mwiszenko&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true&line_height=24)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mwiszenko&theme=radical&layout=compact&langs_count=6&hide=html,css,prolog,c,qml,qmake)
-
-
----
-
-![prrofile views](https://visitor-badge.laobi.icu/badge?page_id=mwiszenko&title=Profile%20views)
