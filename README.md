@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=mwiszenko&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mwiszenko&theme=radical&layout=compact&langs_count=6)
 
-Currently working on iOS apps and frameworks. Passionate about Swift and SwiftUI.
+3rd year student of Computer Science at Warsaw University of Technology.
 
 ---
 
