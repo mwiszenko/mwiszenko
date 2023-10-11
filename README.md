@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I am a 3rd-year student of Computer Science at Warsaw University of Technology.
-
 <!--
 **mwiszenko/mwiszenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mwiszenko/)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mwiszenko&show_icons=true&theme=onedark&hide=issues&count_private=true&include_all_commits=true&line_height=24)
